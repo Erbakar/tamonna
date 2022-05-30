@@ -1226,6 +1226,7 @@ span.tour-duration {
     color: #666;
     font-size: 18px;
     font-weight: 700;
+    min-height: 52px;
 }
 
 .tour-card p {
